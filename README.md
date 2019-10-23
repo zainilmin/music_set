@@ -1,4 +1,4 @@
-# shs_project
+# music set
 
 Process music data set and query using artist name
 
